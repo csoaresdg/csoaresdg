@@ -1,4 +1,5 @@
-### Olá! Eu me chamo Carol Soares!
+# Olá! Eu me chamo Carol Soares!
+
 
 - ⚡ Trabalhando com front-end
 - 📓 Atualmente estou aprendendo html, css, javascript, UI Design.
