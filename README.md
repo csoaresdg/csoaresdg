@@ -1,8 +1,7 @@
-### Olá! Eu me chamo Carol Soares,<br>trabalho com design e estou migrando para área de programação e tecnologia!
-
+### Olá! Eu me chamo Carol Soares!
 
 - ⚡ Trabalhando com front-end
-- 🌱 Atualmente estou aprendendo html, css, javascript, UI Design.
+- 📓 Atualmente estou aprendendo html, css, javascript, UI Design.
 - 💡 Designer de formação + com foco em digital design.
 
 
