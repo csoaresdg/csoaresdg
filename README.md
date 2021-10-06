@@ -17,7 +17,7 @@
  
 <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Carol-Fg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+<img align="center" alt="Carol-Fg" height="30" width="40" src="https://img.icons8.com/color/48/000000/figma--v2.png">
 <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Carol-Ps" height="30" width="40" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg">
 <img align="center" alt="Carol-Ai" height="30" width="40" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg">
