@@ -1,7 +1,7 @@
 # Olá! Eu me chamo Caio Soares!
 
 
-- ⚡ Trabalhando com front-end
+- ⚡ Estudando front-end
 - 📓 Atualmente estou aprendendo html, css, javascript, UI Design.
 - 💡 Designer de formação + com foco em digital design.
 
